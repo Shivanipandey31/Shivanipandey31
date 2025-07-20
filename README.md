@@ -1,6 +1,13 @@
 ## 👩‍💻 Shivani Pandey – Final Year CSE Student | Developer | Problem Solver
 
-Welcome! I’m a **final-year Computer Science and Engineering student** passionate about solving real-world problems using code. I specialize in **C, Java, Python, and JavaScript**, and I love building full-stack applications, working with machine learning models, and crafting clean, efficient software systems.
+- 🎓 Final-year Computer Science & Engineering student, passionate about building impactful tech solutions
+- 💻 Skilled in C, Java, Python, JavaScript, with hands-on experience in full-stack development
+- 🧠 Strong grip on Data Structures, Algorithms, and Software Development Principles
+- 🚀 Actively exploring emerging technologies and real-world applications
+- 🏆 Hackathon enthusiast, driven by problem-solving and team collaboration
+- 🌱 Always learning, always building — aiming to grow as a creative and efficient developer 
+
+
 
 ---
 
