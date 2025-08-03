@@ -10,18 +10,6 @@
 
 
 ---
-
-## 🔧 Tech Stack
-
-- **Languages:** C, Java, Python, JavaScript, Node.js, HTML, CSS  
-- **Frameworks & Libraries:** React.js, TensorFlow, Keras, OpenCV, Flask, Socket.io  
-- **Styling:** Tailwind CSS, Bootstrap, DaisyUI  
-- **Tools & Platforms:** Git, GitHub, VS Code, Eclipse, Figma  
-- **Databases:** MongoDB, Firebase, MySQL, PostgreSQL  
-- **Core CS Concepts:** Data Structures & Algorithms, OOP, OS, DBMS, CN
-
----
-
 ## 📁 Projects
 
 ### 🚦 Urban Pulse  
