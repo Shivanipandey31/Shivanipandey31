@@ -3,11 +3,8 @@
 - 🎓 Final-year Computer Science & Engineering student, passionate about building impactful tech solutions
 - 💻 Skilled in C, Java, Python, JavaScript, with hands-on experience in full-stack development
 - 🧠 Strong grip on Data Structures, Algorithms, and Software Development Principles
-- 🚀 Actively exploring emerging technologies and real-world applications
 - 🏆 Hackathon enthusiast, driven by problem-solving and team collaboration
 - 🌱 Always learning, always building — aiming to grow as a creative and efficient developer 
-
-
 
 ---
 ## 📁 Projects
@@ -18,20 +15,20 @@
 - 🎮 Simulated realistic traffic using Pygame  
 - 📊 Dynamically adjusted signal cycles based on lane-wise vehicle density  
 
-### 🌍 YatriSaarthi  
+### 🌍 [YatriSaarthi](https://github.com/YatriSaarthi/YatriSaarthi)
 **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io  
 - 🧭 Built a platform connecting travellers with local communities  
 - 🔄 Offered real-time local insights for solo travellers  
 - 💼 Empowered communities with guide job opportunities  
 - 🖥️ Delivered a smooth, responsive UI  
 
-### 💬 ChatApp  
+### 💬 [ChatApp](https://github.com/Shivanipandey31/chatapp-com)  
 **Tech Stack:** MERN, Socket.io, JWT, Zustand, Tailwind CSS, DaisyUI  
 - ⚡ Developed a secure real-time chat application  
 - 🔐 Implemented JWT for authentication  
 - 🗂️ Managed user and message data with MongoDB and Express  
 
-### 😊 Real-Time Emotion Detection System  
+### 😊 [Real-Time Emotion Detection System](https://github.com/Shivanipandey31/Real-Time-Emotion-Detection-System)  
 **Tech Stack:** Python, TensorFlow/Keras, OpenCV, NumPy, Matplotlib, pyttsx3, Flask  
 - 🤖 Built a CNN-based emotion classifier (70% accuracy on FER2013)  
 - 🎥 Enabled real-time detection using OpenCV  
