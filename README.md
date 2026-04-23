@@ -4,7 +4,6 @@
 - 💻 Skilled in C, Java, Python, JavaScript, with hands-on experience in full-stack development
 - 🧠 Strong grip on Data Structures, Algorithms, and Software Development Principles
 - 🏆 Hackathon enthusiast, driven by problem-solving and team collaboration
-- 🌱 Always learning, always building — aiming to grow as a creative and efficient developer 
 
 ---
 
